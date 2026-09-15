@@ -1,6 +1,6 @@
 # Project 1: The Rust Renderer
 
-Public template: https://github.com/chriswill91/cs411-project01-rust-renderer
+Public template: https://github.com/cwillpinto/cs411-project01-rust-renderer
 
 Full assignment: `Project_1_The_Rust_Renderer.md`.
 
